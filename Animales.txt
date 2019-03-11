@@ -1,0 +1,4 @@
+Milka/vaca/0/100
+Claudio/gallina/0/100
+pepe/vaca/0/100
+Lucero/caballo/0/100
